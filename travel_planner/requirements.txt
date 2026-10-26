@@ -1,0 +1,10 @@
+streamlit>=1.30
+pandas>=1.5
+numpy>=1.23
+scikit-learn>=1.2
+joblib>=1.2
+matplotlib>=3.6
+openai>=1.0
+httpx>=0.24
+python-dotenv>=1.0
+jupyter

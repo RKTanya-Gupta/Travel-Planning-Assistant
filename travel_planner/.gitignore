@@ -1,0 +1,5 @@
+data/raw/*.csv
+tests/mock_data/
+.env
+__pycache__/
+.ipynb_checkpoints/
